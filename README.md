@@ -83,18 +83,3 @@ Kishan Semwal
 📍 Delhi, India
 🚀 Aspiring Full-Stack MERN Developer
 🌐 GitHub • LinkedIn
-
-
----
-
-## ✅ Tera kaam ab:
-
-- `"your-username"` and demo link replace karna
-- API key publicly upload **mat** karna
-- Screenshot ya GIFs daalna chahe to `assets/` folder me rakhke `![alt](assets/image.png)` use kar
-
----
-
-Bhai yeh README tujhe **project-ready + interview-ready** bana raha hai.  
-Chahe to mai `weather app` ya `to-do list` ka bhi individual README bana du — just bol 💪
-
